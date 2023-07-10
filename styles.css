@@ -19,5 +19,6 @@ background-color: #dfdfdf;
    }
 
    .flexbox-item-3{
-    min-height: 300px;   
+    min-height: 300px;  
+    flex-grow: 1; 
    }
