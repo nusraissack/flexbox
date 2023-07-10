@@ -11,6 +11,7 @@ background-color: #dfdfdf;
 
 .flexbox-item-1{
  min-height: 100px;   
+ flex-shrink: 0;
 }
 
 .flexbox-item-2{
