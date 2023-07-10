@@ -1,3 +1,10 @@
 .flexbox-container{
     display: flex;
 }
+
+.flexbox-item{
+width: 200px;
+
+
+
+}
